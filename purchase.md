@@ -166,6 +166,7 @@ function validar( form )
 
 <div style="clear: left;"></div>
 <blockquote>
+	<br>
 	<h1>Buy your FIVETECH Product Today!</h1><br>
 	<p>Please fill the following form:</p>
     <form action="confirm.php" method="POST" name="form1">
