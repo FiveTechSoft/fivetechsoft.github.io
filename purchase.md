@@ -317,7 +317,7 @@ valores hay que actualizar los arrays precio_producto y nombre producto de la li
         value="Submit Order" onclick="validar(form1)" class="btn"></p>
     </form>
     <p><font size="2" face="Verdana">If you don't want to order on Internet, print this order and
-    mail it to the following address. Please sign it.<br>
+    mail it to the following address. Please sign it.<br><br>
     </font></p>
     <table border="0">
         <tr>
