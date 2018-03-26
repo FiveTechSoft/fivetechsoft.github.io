@@ -75,7 +75,7 @@ layout: defecto
             </div>
           </div>
         </div>
-        <div class="row-3">
+<div class="row-3">
           <div class="wrapper">
             <div class="box">
               <div class="border-top">
