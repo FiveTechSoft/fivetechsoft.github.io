@@ -26,7 +26,7 @@ layout: default
                   	 commands are connected to a robust classes hierarchy, where everything is an object encapsulating 
                   	 all the functionality. Finally those objects are connected to functions that use the Windows API 
                   	 features offering the best performance and work efficiency.</p>
-                  <a href="https://www.fivetechsoft.com/secure/english/purchase.html" class="link"><span><span>Order now!</span></span></a>
+                  <a href="purchase" class="link"><span><span>Order now!</span></span></a>
                   <div class="clear"></div>
                 </div>
               </div>
@@ -46,7 +46,7 @@ layout: default
                     <p class="extra1">To deliver a 64 bits version of your FWH and Harbour app is as easy as to 
                     	  rebuild your app using FWH 64. No changes are required in your source code. You get the 64 
                     	  bits version of your software with no work on your side!</p>
-                    <a href="https://www.fivetechsoft.com/secure/english/purchase.html" class="link"><span><span>Order now!</span></span></a>
+                    <a href="purchase" class="link"><span><span>Order now!</span></span></a>
                   </div>
                 </div>
                 <div class="col-2">
@@ -62,7 +62,7 @@ layout: default
                       <li><a href="http://www.fivetechsoft.com/files/clients.zip">Demo app with source code</a></li>
                     </ul>
                     <div class="clear"></div>
-                    <a href="https://www.fivetechsoft.com/secure/english/purchase.html" class="link"><span><span>Order now!</span></span></a>
+                    <a href="purchase" class="link"><span><span>Order now!</span></span></a>
                   </div>
                 </div>
                 <div class="col-3">
@@ -78,7 +78,7 @@ layout: default
                       <li><a href="http://wiki.fivetechsoft.com/doku.php?id=fivelinux_documentation">Documentatioón</a></li>
                     </ul>
                     <div class="clear"></div>
-                    <a href="https://www.fivetechsoft.com/secure/english/purchase.html" class="link"><span><span>Order now!</span></span></a>
+                    <a href="purchase" class="link"><span><span>Order now!</span></span></a>
                   </div>
                 </div>
                 <div class="clear"></div>
@@ -109,7 +109,7 @@ layout: default
                                          <li><a href="http://forums.fivetechsupport.com/viewforum.php?f=16">FTDN news</a></li>
                                       </ul>
                                       <div class="clear"></div>
-                                      <a href="https://www.fivetechsoft.com/secure/english/purchase.html" class="link"><span><span>Order now!</span></span></a>
+                                      <a href="purchase" class="link"><span><span>Order now!</span></span></a>
                                       <div class="clear"></div>
                                     </div>
                                     <div class="col-2">
@@ -121,7 +121,7 @@ layout: default
                                          <li><a href="http://forums.fivetechsupport.com/viewtopic.php?f=5&t=4779&start=0">Screenshots</a></li>
                                       </ul>
                                       <div class="clear"></div>
-                                      <a href="https://www.fivetechsoft.com/secure/purchase.html" class="link"><span><span>Order now!</span></span></a>
+                                      <a href="purchase" class="link"><span><span>Order now!</span></span></a>
                                       <div class="clear"></div>
                                     </div>
                                 </div>
