@@ -3,6 +3,9 @@ layout: default
 ---
 
 <div id="content">
+        
+        <a href="http://forums.fivetechsupport.com/search.php?search_id=active_topics">FiveTech Tech support forums</a>
+        
         <div class="row-1">
           <div class="wrapper">
             <div class="col-1">
