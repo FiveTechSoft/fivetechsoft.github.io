@@ -2,7 +2,7 @@
 layout: defecto
 ---
 
-     <div id="content">
+<div id="content">
         <div class="row-1">
           <div class="wrapper">
             <div class="col-1">
