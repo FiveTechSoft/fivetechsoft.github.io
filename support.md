@@ -3,8 +3,11 @@ layout: default
 ---
 
 <div id="content">
+        <br><a href="http://forums.fivetechsupport.com/search.php?search_id=active_topics">FiveTech Tech support forums</a><br>
         
-        <a href="http://forums.fivetechsupport.com/search.php?search_id=active_topics">FiveTech Tech support forums</a>
+        <div style="width: 100%; height: 400px;">
+         <iframe style="width: 100%; height: 100%" src="http://forums.fivetechsoft.com" frameborder="0"></iframe>	
+        </div>
         
         <div class="row-1">
           <div class="wrapper">
