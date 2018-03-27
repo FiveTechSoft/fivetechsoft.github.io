@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Support | FiveTech Software
 ---
 
 <div id="content">
