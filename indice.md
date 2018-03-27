@@ -1,5 +1,6 @@
 ---
 layout: defecto
+title: Acerca de FiveTech Software
 ---
 
 <div id="content">
