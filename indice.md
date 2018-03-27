@@ -7,7 +7,7 @@ layout: defecto
           <div class="wrapper">
             <div class="col-1">
               <div class="info-box">
-                <div class="wrapper"> <img src="images/box-title.png" alt="FIVEWIN: La librería estándard para Windows" />
+                <div class="wrapper"> <img src="images/box-title-es.png" alt="FIVEWIN: La librería estándard para Windows" />
                   <ul>
                     <li><a href="http://wiki.fivetechsoft.com/doku.php?id=fivewin_arquitectura">Diseño robusto</a></li>
                     <li><a href="http://wiki.fivetechsoft.com/doku.php?id=fivewin_tutorial_es">Fácil de usar</a></li>
