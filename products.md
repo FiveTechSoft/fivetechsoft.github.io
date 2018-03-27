@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Products | FiveTech Software
 ---
 
 <div id="content">
