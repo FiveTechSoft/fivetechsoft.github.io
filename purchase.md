@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Purchase | FiveTech Software
 ---
 
 <script>
