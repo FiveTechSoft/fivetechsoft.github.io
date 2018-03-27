@@ -98,7 +98,7 @@ title: Acerca de FiveTech Software
                                       	  Por más de 12 años FiveTech ha ayudado a empresas de software a
                                       	  convertirse en auténticos líderes en sus respectivos sectores.</h3>
                                       <ul class="list-1 fleft">
-                                        <li><a href="harbour.github.io">El proyecto Harbour</a></li>
+                                        <li><a href="http://harbour.github.io">El proyecto Harbour</a></li>
                                         <li><a href="https://groups.google.com/group/harbour-devel">Desarrolladores en Harbour</a></li>
                                       </ul>
                                       <div class="clear"></div>
