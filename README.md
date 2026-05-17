@@ -1,2 +1,3 @@
 # fivetechsoft.github.io
-FiveTech Software
+
+Static mirror of www.fivetechsoft.com (English + Spanish).
