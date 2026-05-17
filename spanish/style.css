@@ -631,3 +631,19 @@ dl dd.extra {
 #footer ul li#act a {
 	text-decoration: underline;
 }
+/* purchase page */
+#content .purchase { padding: 20px 30px 40px; }
+#content .purchase h1 { color: #444; font-size: 22px; margin-bottom: 10px; }
+.purchase-intro { margin-bottom: 18px; }
+.purchase-table { width: 100%; border-collapse: collapse; }
+.purchase-table th { text-align: left; background: #2b2b2b; color: #fff;
+  padding: 8px 12px; font-size: 13px; }
+.purchase-table td { padding: 10px 12px; border-bottom: 1px solid #ddd;
+  vertical-align: middle; }
+.purchase-table .prod { font-weight: bold; }
+.purchase-table .price { white-space: nowrap; }
+.purchase-table form { margin: 0; }
+.paypal-btn { background: #ffc439; border: 1px solid #e0a800; color: #111;
+  font-weight: bold; padding: 8px 16px; cursor: pointer; border-radius: 4px; }
+.paypal-btn:hover { background: #f0b72e; }
+.purchase-note { margin-top: 18px; font-size: 12px; color: #666; }
